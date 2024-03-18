@@ -1,0 +1,10 @@
+name: ai-challenge
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A public-facing Application Load Balancer (ALB) to distribute incoming web traffic.
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-python
