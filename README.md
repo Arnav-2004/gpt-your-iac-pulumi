@@ -1,0 +1,1 @@
+The primary objective of this project is to design and implement a robust, scalable, and secure Application Load Balancer (ALB) to efficiently distribute incoming web traffic across multiple server instances. This ensures high availability, fault tolerance, and optimal resource utilization for a public-facing web application.
